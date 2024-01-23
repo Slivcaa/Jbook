@@ -1,3 +1,5 @@
+# This is interactive browser-based coding environment. It's like a Jupyter Notebook, but for Javascript, with many additional features added in. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
